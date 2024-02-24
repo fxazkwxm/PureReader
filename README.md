@@ -1,6 +1,6 @@
 简体中文
 
-LOGO	PureReader
+[LOGO	PureReader](https://github.com/PureReader)
 这个项目属于上述组织，点击上方链接关注这个组织，发现更多好项目。
 
 项目介绍
@@ -11,7 +11,7 @@ LOGO	PureReader
 轻享阅属于闭源软件，但是它是以开源为标准、高度可扩展性的软件，有能力的用户和开发者可以通过与轻享阅对接，实现自己的个性化阅读体验。
 
 软件截图
-SCREENSHOT SCREENSHOT SCREENSHOT SCREENSHOT
+
 软件特色
 专注阅读体验
 
